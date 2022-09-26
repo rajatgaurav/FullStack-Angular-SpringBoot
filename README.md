@@ -25,6 +25,3 @@ Customer Managment           |
 Add/Update Customer           |
 ![screenshoot](screenshots/save_customer.PNG)|
 
-### Contributing 💡
-If you want to contribute to one of this projects and make it better with new ideas or fixing issues, your pull request is very welcomed.
-If you find any issue just put it in the repository issue section, thank you.
