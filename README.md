@@ -1,10 +1,6 @@
 # Customer Relationship Managment (CRUD)
 Full-stack Web Application using Angular &amp; SpringBoot (RestFull API).
 
-![Status started](https://img.shields.io/badge/Status-Started-blue.svg)
-![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
-
 ### Used Technologies & Tools
 * Front-end
   * Angular 8.
